@@ -1,0 +1,36 @@
+body {
+    background: url("../images/gym_bg.jpeg") 
+    no-repeat center fixed;
+    background-size: cover;
+}
+
+div {
+    background-color: #fff;
+    text-align: center;
+    width: 70%;
+    margin: 200px auto;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+
+button {
+    margin-bottom: 10px;
+    background: orange;
+    color: black;
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Timmana', sans-serif;
+}
+
+p{
+    font-size: 1em;
+}
+
+i {
+    color: orange;
+}

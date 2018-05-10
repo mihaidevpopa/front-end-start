@@ -1,0 +1,22 @@
+body{
+    background: url("../images/bgdog.jpeg") 
+    no-repeat center fixed;
+    background-size: cover;
+}
+div{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    color: white;
+    /* border: 3px solid blue; */
+    width: 100%;
+    padding: 10px;
+    margin: auto auto;
+    margin-top: 150px;
+    font-family: 'Cinzel', serif;
+    font-size: 3em;
+}
+i{
+    color: blue;
+}
