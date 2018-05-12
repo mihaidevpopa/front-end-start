@@ -1,0 +1,17 @@
+div {
+    background-color: blue;
+    height: 100px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+
+    background-color: yellow;
+}
+
+#gray {
+    background-color: gray;
+}
