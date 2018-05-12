@@ -1,0 +1,22 @@
+h1 {
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a:link, a:visited {
+    background-color: blue;
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+}
+
+a:active {
+    background-color: aqua;
+}
