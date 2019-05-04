@@ -1,3 +1,4 @@
+//this is a function that receives a word and counts the number of capital "B" characters in it and returns a number
 let countBs = (word) => {
     return countChars(word, 'B');
 }
